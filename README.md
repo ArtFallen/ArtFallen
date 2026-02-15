@@ -1,50 +1,68 @@
 <h1 align="center">Hi, I'm Arthur (•̀ᴗ•́)و</h1>
 
 <p align="center">
-  Estudiante & Programador apasionado por crear, aprender y convertir ideas en proyectos reales.
+  Student & programmer passionate about building, learning, and turning ideas into real projects.
 </p>
 
 ---
 
-## Sobre mí ─=≡Σ((( つ•̀ω•́)つ
-- Interesado en desarrollo de software y proyectos tecnológicos
-- Siempre aprendiendo nuevas herramientas y conceptos
-- Construyendo proyectos para mejorar habilidades reales
-- Explorando emprendimiento y tecnología
+## About Me ─=≡Σ((( つ•̀ω•́)つ
+- Interested in software development and tech projects
+- Constantly learning new tools and concepts
+- Building projects to develop real-world skills
+- Exploring entrepreneurship and technology
+- Focused on turning ideas into practical solutions
 
 ---
 
-## Lenguajes más usados (￣▽￣)ノ
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtFallen&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only"/>
-  </a>
+## Tech Stack ⚙️
 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtFallen&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only"/>
-  </a>
+### Languages
+- Python
+- JavaScript
+- SQL
+- Bash
+
+### Tools & Technologies
+- Git & GitHub
+- Tkinter (GUI applications)
+- Regex & text processing
+- Basic NLP workflows
+- Data handling & automation with Python
+- Linux / CLI tools
+
+### Currently Learning
+- Software architecture
+- Better application design
+- Scalable project organization
+- Entrepreneurship & product building
+
+---
+
+## Most Used Languages (￣▽￣)ノ
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtFallen&layout=compact&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtFallen&layout=compact&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only" />
 </p>
 
 ---
 
-## Estadísticas de GitHub (⌐■_■)
+## GitHub Stats (⌐■_■)
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArtFallen&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtFallen&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArtFallen&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtFallen&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only" />
 </p>
 
 ---
 
-## Filosofía ヽ(•‿•)ノ
-> *La timidez es una condición ajena al corazón, una categoría, una dimensión que desemboca en la soledad -  Pablo Neruda*
+## Philosophy ヽ(•‿•)ノ
+> *Shyness is a condition foreign to the heart, a category, a dimension that leads to loneliness.*  
+> — Pablo Neruda
 
 ---
 
 <p align="center">
-Creado por Arthur
+Created by Arthur
 </p>
