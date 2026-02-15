@@ -16,44 +16,27 @@
 ---
 
 ## Tech Stack ⚙️
+<p align="center">
 
-### Languages
-- Python
-- JavaScript
-- SQL
-- Bash
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Python-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Text%20Processing-Regex-green?style=for-the-badge"/>
 
-### Tools & Technologies
-- Git & GitHub
-- Tkinter (GUI applications)
-- Regex & text processing
-- Basic NLP workflows
-- Data handling & automation with Python
-- Linux / CLI tools
+</p>
 
-### Currently Learning
+---
+
+## Currently Exploring 🚀
 - Software architecture
-- Better application design
-- Scalable project organization
-- Entrepreneurship & product building
-
----
-
-## Most Used Languages (￣▽￣)ノ
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtFallen&layout=compact&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtFallen&layout=compact&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only" />
-</p>
-
----
-
-## GitHub Stats (⌐■_■)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtFallen&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtFallen&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only" />
-</p>
+- Better UI/UX for applications
+- NLP & text processing
+- Product building & entrepreneurship
 
 ---
 
