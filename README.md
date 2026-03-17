@@ -7,7 +7,7 @@
 ---
 
 ## About Me ─=≡Σ((( つ•̀ω•́)つ
-- Interested in software development and tech projects
+- Focused on machine learning and data science
 - Constantly learning new tools and concepts
 - Building projects to develop real-world skills
 - Exploring entrepreneurship and technology
@@ -23,18 +23,18 @@
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-Python-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Text%20Processing-Regex-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 </p>
 
 ---
 
 ## Currently Exploring 🚀
-- Software architecture
-- Better UI/UX for applications
+- Machine learning & predictive modeling
+- Data science workflows and pipelines
 - NLP & text processing
 - Product building & entrepreneurship
 
